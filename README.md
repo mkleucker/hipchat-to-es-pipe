@@ -4,7 +4,7 @@ A small utility to fetch all HipChat messages from a specified HipChat room and 
 
 ## How to use
 
-1. Run `npm init` to fetch all dependencies
+1. Run `npm install` to fetch all dependencies
 2. (if you don't want to set env vars directly) Copy `.env.exmaple` to `.env` and enter your values
 3. `npm start` 
 4. All messages should appear in the specified index. 
